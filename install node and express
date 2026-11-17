@@ -28,7 +28,7 @@ cd myapp
 
 ---
 
-# ✅ 3️⃣ Initialize Node Project
+# ✅ 3️⃣ Initialize Node Project.
 
 ```bash
 npm init -y
